@@ -12,11 +12,9 @@ All of this needs to be implemented in such a way that it can be used on laptop/
 
 The user base for our system can range from a naive person who is first time user of such a system to a person who uses computer in his daily life . Thus in either case an intuitive user interface is absolutely necessary so that the end user is himself able to navigate through the system and figures out the next step to be taken to proceed.
 
-Color Coding: Actors Noun Verb Phrases Operating System Ease of Use
-
 Use-Cases with their respective actors:
 
-Actors Use-Cases
+Actors Use-Cases:
 
 1. End User
 1. To Login in the system (for existing users)
@@ -29,7 +27,7 @@ Actors Use-Cases
 8. To play songs
 9. To logout from the system
 
-2. Administrator
+Administrator Use-Cases:
 
 1. To add new songs to existing database in timely manner
 2. To add lyrics for the songs.
